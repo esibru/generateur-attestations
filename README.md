@@ -67,3 +67,7 @@ Afin d'éviter cette configuration à chaque impression d'attestation, les scrip
 - `chrome-dev.bat` : exécute Google Chrome sur les machines de l'ESI
 - `chrome-dev.sh` : exécute Chromium sur une machine linux
 
+## Auteurs
+
+- **NRI** – Développeur principal  
+- **JLC** – Contributeur
