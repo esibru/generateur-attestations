@@ -16,7 +16,7 @@ start "" "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" ^
   --user-data-dir="%PROFILE_DIR%" ^
   --disable-site-isolation-trials ^
   --disable-features=IsolateOrigins,site-per-process ^
-  http://youngfrog.lavnir.be/generateur-attestations/
+  https://esibru.github.io/generateur-attestations/
 
 endlocal
 
