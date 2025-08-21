@@ -18,7 +18,7 @@ Avant de commencer, assurez-vous :
 
 Étapes à suivre :
 
-- Lancez le Chrome via le script `chrome-dev.bat`
+- Lancez Chrome via le script `chrome-dev.bat`
 - Accédez dans ce browser à la page de l’application.
 - Renseignez vos identifiants :
    - `Login` : votre identifiant utilisateur
